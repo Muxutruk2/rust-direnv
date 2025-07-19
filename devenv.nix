@@ -43,7 +43,7 @@
 
     "{{crate_name}}:run" = {
       exec = "cargo run";
-      before = [ "rust:build" ];
+      before = [ "{{crate_name}}:build" ];
     };
 
   };
