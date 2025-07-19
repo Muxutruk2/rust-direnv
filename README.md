@@ -10,6 +10,12 @@ Make sure you have cargo-generate installed
 cargo generate --git https://github.com/Muxutruk2/rust-direnv.git
 ```
 
+Allow the `.envrc`
+
+```sh
+direnv allow .envrc
+```
+
 Then, delete this `README.md`, and rename `./RENAME_ME.md` to `./README.md`
 
 ```sh
