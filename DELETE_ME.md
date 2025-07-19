@@ -1,0 +1,3 @@
+# Rust Direnv Template
+
+

@@ -1,0 +1,11 @@
+[package]
+name = "{{project-name}}"
+authors = ["{{authors}}"]
+version = "0.1.0"
+edition = "2024"
+readme = "README.md"
+repository = "https://github.com/{{username}}/cargo"
+license = "MIT"
+
+[dependencies]
+
